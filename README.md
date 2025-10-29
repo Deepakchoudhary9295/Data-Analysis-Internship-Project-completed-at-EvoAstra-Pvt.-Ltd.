@@ -73,3 +73,15 @@ Data Cleaning • EDA • Visualization • Classification Models • Business I
 
 ## 🗂️ Repository Structure
 
+---
+
+## ⚙️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-github-username>/EvoAstra-Internship-Project.git
+
+   jupyter notebook evoastra-intern-assessment_solutions.ipynb
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+
